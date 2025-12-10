@@ -20,8 +20,8 @@ A Streamlit-based web application for analyzing cryptocurrency price data and ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cryptocurrency-analysis.git
-   cd cryptocurrency-analysis
+   git clone https://github.com/sanjeevithacs/Cryptocurrency-Analysis.git
+   cd Cryptocurrency-Analysis
    ```
 
 2. Install the required packages:
