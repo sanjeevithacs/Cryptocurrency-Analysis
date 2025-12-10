@@ -64,6 +64,13 @@ cryptocurrency-analysis/
 └── requirements.txt         # Project dependencies
 ```
 
+
+## Result Screenshot
+
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/fa22c8b5-f4cc-4a82-a86c-262250544c66" />
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/8bb332f9-d0c7-47ef-a2f1-be31c45748b2" />
+
+
 ## Dependencies
 
 - streamlit
